@@ -1,3 +1,3 @@
--- script that lists all databases of your MySQL server
--- this is the most common command to get a list of the MySQL databases
-SHOW DATABASES;
+--  script that creates the database hbtn_0c_0 in your MySQL server
+-- CREATE command
+CREATE DATABASE IF NOT EXISTS hbtn_0c_0
